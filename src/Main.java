@@ -7,9 +7,12 @@ public class Main {
 //        triangleExercises.drawVerticalLine(8);
 //        triangleExercises.drawRightTriangle(3);
 
-        DiamondExercise diamondExercise = new DiamondExercise();
-        dimondExercise.drawIsoscelesTriangle(3);
-        dimondExercise.drawDiamond(3);
-        diamondExercise.drawDiamondWithName(3, "Bill");
+//        DiamondExercise diamondExercise = new DiamondExercise();
+//        diamondExercise.drawIsoscelesTriangle(3);
+//        diamondExercise.drawDiamond(3);
+//        diamondExercise.drawDiamondWithName(3, "Bill");
+
+        FizzBuzzExercise fizzBuzzExercise = new FizzBuzzExercise();
+        fizzBuzzExercise.fizzBuzz(15);
     }
 }
