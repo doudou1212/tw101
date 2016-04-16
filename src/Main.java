@@ -12,7 +12,9 @@ public class Main {
 //        diamondExercise.drawDiamond(3);
 //        diamondExercise.drawDiamondWithName(3, "Bill");
 
-        FizzBuzzExercise fizzBuzzExercise = new FizzBuzzExercise();
-        fizzBuzzExercise.fizzBuzz(15);
+//        FizzBuzzExercise fizzBuzzExercise = new FizzBuzzExercise();
+//        fizzBuzzExercise.fizzBuzz(15);
+        PrimeFactorsExercise primeFactorsExercise = new PrimeFactorsExercise();
+        primeFactorsExercise.primeFactors(30);
     }
 }
